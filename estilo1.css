@@ -1,0 +1,54 @@
+/*body {
+    display: flex;
+    flex-wrap: wrap}*/
+
+    .contenedor {
+        display: flex;}
+
+div {height: 70px;}
+
+.extremos {width: 250px;
+    background-color: blue;}
+
+.medio {flex-grow: 2;
+    background-color: darkgreen;}
+
+    .extremos2 {width: 200px;
+        background-color: rosybrown;}
+
+    .medio2 {flex-grow: 1;
+        background-color: brown;}
+
+    .medio3 {flex-grow: 1;
+        background-color: green;}
+
+    .div1 {flex-grow: 1;
+        background-color: violet;}
+
+    .div2 {flex-grow: 1;
+        background-color: red;}
+
+    .div3 {flex-grow: 1;
+        background-color: pink;}
+
+    .div4 {
+        flex-grow: 2;
+        background-color: green;}
+
+    .div5 {flex-grow: 1;
+        background-color: yellow;}
+        
+    .div6 {flex-grow: 1;
+        background-color: salmon;}
+    .div7 {
+        flex-grow: 2;
+        background-color:teal;
+    }
+
+    .div8 {
+        flex-grow: 2;
+        background-color: royalblue;}
+
+.div9 {
+    flex-grow: 6;
+    background-color: gold;}
